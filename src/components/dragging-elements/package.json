@@ -1,0 +1,32 @@
+{
+  "name": "dragging-elements",
+  "version": "1.1.0",
+  "description": "可拖动的元素组件",
+  "author": "liumapp <liumapp.com@gmail.com>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liumapp/dragging-elements.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/liumapp/dragging-elements/issues"
+  },
+  "homepage": "http://www.liumapp.com/",
+  "keywords": [
+    "vue",
+    "component",
+    "dragabble",
+    "resizable",
+    "sign"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ]
+}
